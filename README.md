@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Vinicius Pimenta</h1>
-<h3 align="center">I'm passionate by technologies. Automation engineer specialized in data engineering. I love learn new things and I really love</h3>
+<h3 align="center">I'm passionate by technologies. Automation engineer specialized in data engineering. I love learn new things and I really love challenges</h3>
 
 - 🔭 I’m currently working on **Engineering do Brasil**
 
