@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Vinicius Pimenta</h1>
 <h3 align="center">I'm passionate by technologies. Automation engineer specialized in data engineering. I love learn new things and I really love challenges</h3>
 
-- 🔭 I’m currently working on **Engineering do Brasil**
+- 🔭 I’m currently working on **Progen**
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VPPimenta?tab=repositories](https://github.com/VPPimenta?tab=repositories)
 
